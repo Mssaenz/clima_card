@@ -1,0 +1,78 @@
+body {
+    background-color: #06283D;
+
+}
+
+.card_clima {
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info_clima {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ciudad{
+    color: rgb(4, 53, 128);
+}
+
+.ciudadybusqueda{
+    font-size: 25px;
+    width: 180px;
+    margin-right: 80px;
+}
+
+.icono_clima {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.buscar_btn {
+    background-color: white;
+    color: #06283D;
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 18px;
+    margin-left: 150px;
+}
+
+.temperatura {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(4, 53, 128);
+
+}
+
+.estado {
+    font-size: 25px;
+    color: rgb(4, 53, 128);
+}
+
+.content-vyh{
+    color: rgb(4, 53, 128);
+    margin-top: 40px;
+}
+
+.viento {
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 18px;
+    margin-right: 100px;
+}
+
+.humedad {
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 18px;
+}
